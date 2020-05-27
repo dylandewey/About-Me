@@ -3,7 +3,7 @@
 }
 
 .header {
-    background-color: aqua;
+    background-color: lightskyblue;
     color: white;
     font-family: 'Lato', sans-serif;
 }
@@ -11,5 +11,8 @@
 .col-md-1 {
     color: lightgray;
 }
+
+
+   
 
 
