@@ -1,4 +1,4 @@
-header {
+.navbar-brand  {
     background-color: lightskyblue;
     color: white;
     font-family: 'Lato', sans-serif;
@@ -8,6 +8,7 @@ header {
 a {
     color: lightgray;
     text-align: center;
+    
 }
 
 section {
@@ -18,7 +19,11 @@ section {
 img {
     width: 200px;
     height: 100%;
+    float: left;
 }
    
+.main {
+    float: left;
+}
 
 
