@@ -1,9 +1,12 @@
-.navbar-brand .navbar-light {
+html, body {
+    position: relative;
+    height: 100%;
+}
+.navbar-brand  {
     background-color: lightskyblue;
     color: white;
     font-family: 'Lato', sans-serif;
     text-align: center;
-    margin-left: 4%;
 }
 
 .container {
@@ -25,7 +28,7 @@ footer {
 }
 
 
-}
+
 
 
    
