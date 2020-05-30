@@ -1,33 +1,37 @@
-.navbar-brand  {
+.navbar-brand .navbar-light {
     background-color: lightskyblue;
     color: white;
     font-family: 'Lato', sans-serif;
     text-align: center;
+    margin-left: 4%;
 }
 
-a {
-    color: lightgray;
+.container {
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    background-color: lightseagreen;
+    color: white;
     text-align: center;
-    
+    display: block;
+    left: 0;
 }
 
-section {
-    color: lightskyblue;
-    font-family: 'Lato', sans-serif;
+
 }
 
-img {
-    width: 200px;
-    height: 100%;
-    float: left;
-}
+
    
-.main {
-    float: left;
-}
 
-.fixed-bottom {
-    text-align: center;
-}
+
+
+
 
 
