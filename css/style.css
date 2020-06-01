@@ -4,10 +4,16 @@
     margin-right: 2%;
 }
 
-.navbar-brand  {
+.navbar-brand   {
     background-color: lightseagreen;
     font-family: 'Lato', sans-serif;
     text-align: center;
+    color: white !important;
+}
+
+
+a {
+    color: white;
 }
 
 body {
@@ -15,7 +21,7 @@ body {
 }
 
 .container {
-    margin: 2%;
+    margin-bottom: 120px;
     background-color: white;
 }
 
@@ -27,16 +33,24 @@ img {
     margin: 15px;
 }
 
+.figure-caption {
+    position: absolute;
+    background-color: lightseagreen;
+    padding: 10px;
+    bottom: 0;
+    z-index: 999;
+}
+
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    height: 8%;
+    height: 80px;
     background-color: lightseagreen;
     color: white;
     text-align: center;
     display: block;
-    padding: 20px;
+    padding: 25px;
 }
 
 
