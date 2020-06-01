@@ -1,14 +1,26 @@
 
+.navbar {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
 .navbar-brand  {
     background-color: lightseagreen;
-    color: white;
     font-family: 'Lato', sans-serif;
     text-align: center;
 }
 
+body {
+    background-color: silver;
+}
+
 .container {
-    margin-left: 2%;
-    margin-top: 2%;
+    margin: 2%;
+    background-color: white;
+}
+
+h1 {
+    color: lightseagreen;
 }
 
 
