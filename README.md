@@ -7,4 +7,4 @@ https://dylandewey.github.io/Responsive-Portfolio/
 
 ![portfolio](images/portfolio.png)
 
-![contact](images/contact.png)
+<img src="images/aboutme.png">
