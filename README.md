@@ -3,8 +3,8 @@ This assignment was tough for me.  I initially started making the pages from scr
 
 https://dylandewey.github.io/Responsive-Portfolio/
 
-![aboutme](images/aboutme.png)
+<img alt="aboutme" src="images/aboutme.png">
 
-![portfolio](images/portfolio.png)
+<img alt="portfolio" src="images/portfolio.png">
 
-<img src="images/aboutme.png">
+<img alt="contact" src="images/contact.png">
