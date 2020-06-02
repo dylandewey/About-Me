@@ -3,3 +3,4 @@ This assignment was tough for me.  I initially started making the pages from scr
 
 https://dylandewey.github.io/Responsive-Portfolio/
 
+![Aboutme](images/aboutme)
