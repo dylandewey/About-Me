@@ -34,15 +34,16 @@ img {
 }
 
 .figure-caption {
-    position: absolute;
+    position: Center;
     background-color: lightseagreen;
     color: white;
     font-family: 'Lato', sans-serif;
-    font-size: 125%;
+    font-size: 100%;
+    text-align: center;
     margin-left: 15px;
     padding-left: 33px;
     padding-right: 23px;
-    bottom: 30px;
+    bottom: 0;
     z-index: 2;
 }
 
