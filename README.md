@@ -10,7 +10,7 @@ This is the page I started using all columns and rows from Bootstrap.  I had eve
 On this page I had the hardest time getting the 5 images to show up on the page how I wanted them.  They were coming up in all different sizes and all over the page.  I finally got them in place by giving each column class a float-left.  
 #### Captions
 My next issue was getting the caption on the images.  I was going to not even do it and just leave the images.  But then my tutor helped me discover the figcaption class!  So I added the figure caption using that from Bootstrap then did some formatting changes to get it to look right in CSS.  
-<img alt="portfolio" src="images/portfolio.jpeg" width="300">
+<img alt="portfolio" src="images/portfolio.png" width="300">
 
 ## Contact
 My group was a huge help on this page.  They told me about the forms in bootstrap so I found the one that looked like it would work and put it in the html and made the changes necessary to make it look right.  It still doesn't have functionality for what it should do but that will come later.  I was just focused on making it look like it was supposed to.  
